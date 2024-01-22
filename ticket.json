@@ -1,0 +1,98 @@
+{
+    "content": null,
+    "embeds": [
+     {
+      "type": "rich",
+      "title": "<a:shinyblue_diamond:1193587511054839898>PRICES (in EUR <:Euro:1193592800575508622>)<a:shinyblue_diamond:1193587511054839898>",
+      "color": "#5462f1",
+      "fields": [
+       {
+        "name": "<a:purple_fire_flames:1193581404357918730> ABOUT THE PURCHASE <a:purple_fire_flames:1193581404357918730>",
+        "value": [
+         "",
+         "If you are interested in buying from us, please open a purchase ticket down below to arrange the payment and delivery details. See the requirements at <#1173408793397309532> and the payment methods at<#1193598662761259201>",
+         "",
+         "**Create a Ticket to buy**",
+         "<a:white_arrow_down:1194346503637045378><a:white_arrow_down:1194346503637045378><a:white_arrow_down:1194346503637045378><a:white_arrow_down:1194346503637045378>"
+        ],
+        "inline": false
+       }
+      ],
+      "content_scan_version": 0,
+      "thumbnail": {
+       
+      },
+      "image": {
+       
+      },
+      "description": [
+       "ㅤ",
+       "__**<:vbuck:1173403474180964352> V-Bucks <:vbuck:1173403474180964352>**__",
+       "",
+       "**<:vbuck:1173403474180964352> 1000 :** `3.00€`",
+       "",
+       "**<:vbuck:1173403474180964352> 2800 :** `6.00€`",
+       "",
+       "**<:vbuck:1173403474180964352> 5000 :** `9.50€`",
+       "",
+       "**<:vbuck:1173403474180964352> 13500 :** `21.00€`",
+       "",
+       "**<:vbuck:1173403474180964352> 27000 :** `38.00€`",
+       "",
+       "**<:vbuck:1173403474180964352> 40500 :** `55.00€`",
+       "",
+       "**<:vbuck:1173403474180964352> 67500 :** `85.00€`",
+       "",
+       "",
+       "__**<a:purple_sparkles:1193587451151781939> PACKS <a:purple_sparkles:1193587451151781939>**__",
+       "",
+       "**<a:loading_online_circle:1193587596471828520> [Chill Vibez Pack](https://cdn.discordapp.com/attachments/1173385638918225950/1192182646281871560/EN_S28_ChillVibezPack_EGS_Launcher_2560x1440_2560x1440-f30569e5f14d89af51da037eee427027.jpeg) :** `2.50€`",
+       "",
+       "**<a:loading_online_circle:1193587596471828520> [Voidlands Exile Quest Pack](https://cdn.discordapp.com/attachments/1173385638918225950/1192182648362242150/EN_S28_VoidlandsExileQuestPack_EGS_Launcher__2560x1440_2560x1440-a0752dada9b37c8e847be1d69a25cb69.jpeg) :** `4.00€`",
+       "",
+       "**<a:loading_online_circle:1193587596471828520> [Gilded Elites Pack](https://cdn.discordapp.com/attachments/1173385638918225950/1192182647716323429/EN_S28_GildedElitesPack_EGS_Launcher_2560x1440_2560x1440-4d642ed71c80556d2fa87264453647a7.jpeg) :** `8.00€`",
+       "",
+       "**<a:loading_online_circle:1193587596471828520> [Rogue Scout Pack](https://cdn.discordapp.com/attachments/1173385638918225950/1192182646869082192/EN_S28_RogueScoutPack_EGS_Launcher__2560x1440_2560x1440-348bf330d4eacc413de50d9211f87a96.jpeg) :** `9.00€`",
+       "",
+       "**<a:loading_online_circle:1193587596471828520> All Packs :** `20.00€`",
+       "",
+       "",
+       "__**<a:present_box:1193592457523372133> SHOP GIFTING SERVICE <a:present_box:1193592457523372133>**__",
+       "",
+       "**<a:Discord_Verify_Purple:1193587537386680370> Per 100 V-Bucks :** `0.20€`",
+       "",
+       "**If interested** in Shop gifting Service, add the Fortnite account **Vbucksggservices** , and you can recieve gifts **after 2 days.**",
+       "ㅤ"
+      ]
+     }
+    ],
+    "components": [
+     {
+      "type": 1,
+      "components": [
+       {
+        "type": 2,
+        "style": 3,
+        "label": "Purchase",
+        "custom_id": "Open a Ticket",
+        "emoji": {
+         "id": "1193596573846872064",
+         "name": "money",
+         "animated": true
+        }
+       },
+       {
+        "type": 2,
+        "style": 1,
+        "label": "Support",
+        "custom_id": "Support",
+        "emoji": {
+         "id": "1193596773327962112",
+         "name": "question",
+         "animated": true
+        }
+       }
+      ]
+     }
+    ]
+   }
